@@ -1,0 +1,18 @@
+{
+  "th": {
+    "status": "สำเร็จ",
+    "error" : "เกิดข้อผิดพลาด",
+    "username_used" : "มีข้อมูลผู้ใช้งานนี้แล้ว.",
+    "email_used" : "มีข้อมูล Email นี้แล้ว",
+    "please_again" : "กรุณาลองใหม่อีกครั้ง",
+    "somting_wrong" : "เกิดข้อมูลผิดพลาด"
+  },
+  "en": {
+    "status": "success",
+    "error" : "error",
+    "username_used" : "This User information is already available.",
+    "email_used" : "This Email information is already available.",
+    "please_again" : "Please try again.",
+    "somting_wrong" : "Something went wrong."
+  }
+}

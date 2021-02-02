@@ -1,0 +1,15 @@
+{
+  	"mongodb" : {
+		"host" : "cluster0.bpnzc.gcp.mongodb.net",
+		"port" : 27017,
+		"username" : "dbadmin",
+		"password" : "Tex8cYRLsVOyMqZg",
+		"database" : "bookingdb",
+		"database_auth" : "bookingdb",
+		"srv" : true
+	},
+	"env": {
+		"connection_string": "mongodb+srv://dbadmin:Tex8cYRLsVOyMqZg@cluster0.bpnzc.gcp.mongodb.net/bookingdb"
+	}
+
+}
